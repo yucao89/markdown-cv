@@ -45,7 +45,7 @@ Procured parts for the production of custom design mechanism that powers the hel
 
 Lived in the assembly line as an expat to supervise the entire supply chain. During this period, I started writing specialized software to register, track and understand and thus manage the complex material flow. Later promoted to mechanism category manager for the company. Left the company to start as full time software developer
 
-03-2018 to Present`
+`03-2018 to Present`
 __SEVERAL COMPANIES__
 
 - **Enterprise Data Warehouse Developer:** 
