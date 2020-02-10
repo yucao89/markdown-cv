@@ -45,7 +45,9 @@ __SENER INGENIERIA Y SISTEMAS__
 Procured parts for the production of custom design mechanism that powers the heliostats in the world's biggest tower based thermalsolar power plant in Morocco. The project produced 7.400 unique truck sized mechanisms with complicated part assemblies in time span of a year. 
 
 Lived in the assembly line as an expat to supervise the entire supply chain. During this period, I started writing specialized software to register, track and understand and thus manage the complex material flow. Later promoted to mechanism category manager for the company. Left the company to start as full time software developer.
-</br>
+
+
+
 `03-2018 to Present`
 __SEVERAL COMPANIES__
 
