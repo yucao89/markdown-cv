@@ -1,91 +1,81 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Yu Cao CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Yu Cao
+Procurement Professional, Software Developer, Industrial Engineer. Trilingual Chinese, Spanish and English. Charlatan. Mucho fru fru poco buye buye
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="yc@yucao.org">yc@yucao.org</a>
+| 610710328 | 
 </div>
 
+## Path
 
-## Currently
+Procurement professional responsible for the procurement of the heliostat mechanism assembly parts of the state of the art NOOR 3 thermosolar power plant in Morocco. Contracts managed and negotiated requires a deep understanding of manufacturing and thorough interaction with engineering disciplines. Contracts includes but not limited to:
+ 
+* Tractor size iron foundry casing parts with machining (7 M€ annual purchase quantity)
+* Hidraulic movement power units (10-15 M€)
+* Precision bearings (4 M€ top brands: SKF, Rothe Erde, Galperti)
+* Bolts and Nuts (2 M€)
 
-Standing on the shoulders of giants
 
-### Specialized in
+### Currently ...
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Working as specialist enterprise data warehouse developer designing and writing top quality corporate reporting systems for companies like SKF, Iberia Express, Repsol. What makes me special is my understanding of the industrial processes, adquired knowledge of data modelling and my will to envsion, design ad produce resilent systems of information warehouses for decision and reporting purposes. Currently I'm moving to Bilbao area and this jobs can be a good fit for me.
 
 
-### Research interests
+## Jobs
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+`10-2013 to 08-2015`
+__TECNICAS REUNIDAS__
+ 
+- **Engineering Department:** Power plant technical risk calculations, corrosion calculations
+
+`10-2015 to 02-2018`
+__SENER INGENIERIA Y SISTEMAS__
+
+- **Procurement Engineer:** Procured parts for the production of mechanism that moves the heliostats in the world's biggest tower based thermal solar power plant in Morocco. The project produced 7.400 truck sized mechanisms with complicated part assemblies in time span of a year.
+
+- Lived in the assembly as an expat to supervise the entire supply chain where I started writing specialized software to register, track and understand and thus manage the complex material flow.
+
+- Later promoted to mechanism category manager for the company. Quit the company to start as full time software developer
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`1998-2005`
+__KINGS COLLEGE MADRID__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- **British Middle and High School**
 
-- Sizar
+`2007-2013`
+__UNIVERSIDAD POLITECNICA DE MADRID.__
 
-`1667 - death`
-__Trinity College, Cambridge__
+- **Industrial Engineer Msc**
 
-- Fellow
+## Certifications
 
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
+`2019`
+- DP-200 Implementing an Azure Data Solution
+- MS 767: Implementing a Data Warehouse
+- DAT201x: Quering Data with T-SQL
+- DAT220x: Delivering a Data Warehousein the Cloud
 
 
+### Professional Skills
 
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+- Transact-SQL expert
+- DAX and Power BI expert
+- Python proficiency
+- Superior understanding of business and information technology
+- Negotiation
+- Language Skills
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: 10-02-2020 -->
 
 
