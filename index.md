@@ -12,7 +12,7 @@ Procurement Professional, Software Developer, Industrial Engineer. Trilingual Ch
 
 ## Path
 
-Procurement professional responsible for the procurement of the heliostat mechanism assembly parts of the state of the art NOOR 3 thermosolar power plant in Morocco. Contracts managed and negotiated requires a deep understanding of manufacturing and thorough interaction with engineering disciplines. Contracts includes but not limited to:
+Procurement professional responsible for the procurement of the assembly parts of NOOR 3 power plant in Morocco heliostat mechanism. Noor 3 is the world's most advanced tower thermo solar power plant. Contracts managed and negotiated requires a deep understanding of industrial manufacturing and thorough interaction with engineering disciplines. Main contracts:
  
 * Tractor size iron foundry casing parts with machining (7 M€ annual purchase quantity)
 * Hidraulic movement power units (10-15 M€)
@@ -32,12 +32,15 @@ Working as specialist enterprise data warehouse developer designing and writing 
 `10-2013 to 08-2015`
 __TECNICAS REUNIDAS__
  
-- **Engineering Department:** Power plant technical risk calculations, corrosion calculations
+- **Engineering Department:** 
+    Power plant technical risk calculations, corrosion calculations
 
 `10-2015 to 02-2018`
 __SENER INGENIERIA Y SISTEMAS__
 
-- **Procurement Engineer:** Procured parts for the production of mechanism that moves the heliostats in the world's biggest tower based thermal solar power plant in Morocco. The project produced 7.400 truck sized mechanisms with complicated part assemblies in time span of a year. Lived in the assembly as an expat to supervise the entire supply chain where I started writing specialized software to register, track and understand and thus manage the complex material flow. Later promoted to mechanism category manager for the company. Left the company to start as full time software developer
+- **Procurement Engineer:** 
+
+    Procured parts for the production of mechanism that moves the heliostats in the world's biggest tower based thermal solar power plant in Morocco. The project produced 7.400 truck sized mechanisms with complicated part assemblies in time span of a year. Lived in the assembly as an expat to supervise the entire supply chain where I started writing specialized software to register, track and understand and thus manage the complex material flow. Later promoted to mechanism category manager for the company. Left the company to start as full time software developer
 
 
 ## Education
