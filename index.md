@@ -7,7 +7,7 @@ Procurement Professional, Software Developer, Industrial Engineer, Trilingual Ch
 
 <div id="webaddress">
 <a href="yc@yucao.org">yc@yucao.org</a>
-| 610710328 | <a href="https://yucao89.github.io/markdown-cv/">https://yucao89.github.io/markdown-cv/</a> 
+| +34 610710328 | <a href="https://yucao89.github.io/markdown-cv/">https://yucao89.github.io/markdown-cv/</a> 
 </div>
 
 ## Path
@@ -44,9 +44,9 @@ __SENER INGENIERIA Y SISTEMAS__
 
 - **Procurement Engineer:** 
 
-Procured parts for the production of mechanism that moves the heliostats in the world's biggest tower based thermal solar power plant in Morocco. The project produced 7.400 truck sized mechanisms with complicated part assemblies in time span of a year. 
+Procured parts for the production of custom design mechanism that powers the heliostats in the world's biggest tower based thermalsolar power plant in Morocco. The project produced 7.400 unique truck sized mechanisms with complicated part assemblies in time span of a year. 
 
-Lived in the assembly as an expat to supervise the entire supply chain where I started writing specialized software to register, track and understand and thus manage the complex material flow. Later promoted to mechanism category manager for the company. Left the company to start as full time software developer
+Lived in the assembly line as an expat to supervise the entire supply chain. During this period, I started writing specialized software to register, track and understand and thus manage the complex material flow. Later promoted to mechanism category manager for the company. Left the company to start as full time software developer
 
 
 ## Education
