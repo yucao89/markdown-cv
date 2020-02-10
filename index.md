@@ -12,7 +12,9 @@ Procurement Professional, Software Developer, Industrial Engineer, Trilingual Ch
 
 ## Path
 
-Procurement professional specializing in procurement of custom designed assembly parts of NOOR 3 power plant. Noor 3 is the world's most advanced tower based **thermosolar power plant**. Contracts managed and negotiated requires a deep understanding of industrial manufacturing processes and thorough interaction with engineering disciplines. Main contracts are:
+Procurement professional specializing in procurement of custom designed assembly parts of NOOR 3 power plant. Noor 3 is the world's most advanced tower based **thermosolar power plant**. Contracts managed and negotiated requires a deep understanding of industrial manufacturing processes and thorough interaction with engineering disciplines. 
+
+Main contracts are:
  
 * Tractor size iron foundry casing parts with machining (7 M€ annual purchase quantity)
 * Hidraulic movement power units (10-15 M€)
@@ -36,12 +38,15 @@ __TECNICAS REUNIDAS__
 
 Power plant technical risk calculations, corrosion calculations
 
+
 `10-2015 to 02-2018`
 __SENER INGENIERIA Y SISTEMAS__
 
 - **Procurement Engineer:** 
 
-Procured parts for the production of mechanism that moves the heliostats in the world's biggest tower based thermal solar power plant in Morocco. The project produced 7.400 truck sized mechanisms with complicated part assemblies in time span of a year. Lived in the assembly as an expat to supervise the entire supply chain where I started writing specialized software to register, track and understand and thus manage the complex material flow. Later promoted to mechanism category manager for the company. Left the company to start as full time software developer
+Procured parts for the production of mechanism that moves the heliostats in the world's biggest tower based thermal solar power plant in Morocco. The project produced 7.400 truck sized mechanisms with complicated part assemblies in time span of a year. 
+
+Lived in the assembly as an expat to supervise the entire supply chain where I started writing specialized software to register, track and understand and thus manage the complex material flow. Later promoted to mechanism category manager for the company. Left the company to start as full time software developer
 
 
 ## Education
