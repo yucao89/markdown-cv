@@ -7,7 +7,7 @@ Procurement Professional, Software Developer, Industrial Engineer. Trilingual Ch
 
 <div id="webaddress">
 <a href="yc@yucao.org">yc@yucao.org</a>
-| 610710328 | <div id="webaddress"> <a href="http://yucao89.github.io/markdown-cv">yucao89.github.io/markdown-cv</a>
+| 610710328 |  
 </div>
 
 ## Path
