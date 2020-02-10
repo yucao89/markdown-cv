@@ -12,7 +12,7 @@ Procurement Professional, Software Developer, Industrial Engineer, Trilingual Ch
 
 ## Path
 
-Procurement professional specializing in procurement of custom designed assembly parts. I have work for the procurement department of NOOR 3 power plant, the world's most advanced tower based **thermosolar power plant**. Contracts managed and negotiated requires a deep understanding of industrial manufacturing processes and thorough interaction with engineering disciplines. 
+Procurement professional specializing in procurement of custom designed assembly parts. I have worked for the procurement department of NOOR 3 power plant, the world's most advanced tower based **thermosolar power plant**. The job requires a deep understanding of industrial manufacturing processes and thorough interaction with engineering disciplines. 
 
 Main contracts are:
  
@@ -27,7 +27,7 @@ For references contact elvira.garcia@sener.es (past **Chief Procurement Officer*
 
 ### Currently ...
 
-Working as specialist enterprise data warehouse developer designing and writing top quality reporting software for companies like SKF, Iberia Express, Repsol. What makes me special is my deep understanding of the industrial processes, adquired knowledge of data modelling and my will to produce resilent systems of information warehouses used for decision and reporting purposes. **Currently I'm moving to Bilbao area and this Orbea job can be a good fit for me.**
+Working as specialist enterprise data warehouse developer designing and writing top quality reporting software for companies like SKF, Iberia Express, Repsol. What makes me special is my deep understanding of the industrial processes, acquired knowledge of data modelling and my will to produce resilient systems of information warehouses used for decision and reporting purposes. **Currently I'm moving to Bilbao area and this Orbea job can be a good fit for me.**
 
 
 ## Jobs
@@ -45,7 +45,7 @@ __SENER INGENIERIA Y SISTEMAS__
 Procured parts for the production of custom design mechanism that powers the heliostats in the world's biggest tower based thermalsolar power plant in Morocco. The project produced 7.400 unique truck sized mechanisms with complicated part assemblies in time span of a year. 
 
 Lived in the assembly line as an expat to supervise the entire supply chain. During this period, I started writing specialized software to register, track and understand and thus manage the complex material flow. Later promoted to mechanism category manager for the company. Left the company to start as full time software developer.
-
+</br>
 `03-2018 to Present`
 __SEVERAL COMPANIES__
 
