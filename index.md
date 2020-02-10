@@ -3,11 +3,11 @@ layout: cv
 title: Yu Cao CV
 ---
 # Yu Cao
-Procurement Professional, Software Developer, Industrial Engineer. Trilingual Chinese, Spanish and English. Charlatan. Mucho fru fru poco buye buye
+Procurement Professional, Software Developer, Industrial Engineer. Trilingual Chinese.
 
 <div id="webaddress">
 <a href="yc@yucao.org">yc@yucao.org</a>
-| 610710328 | 
+| 610710328 | <div id="webaddress"> <a href="http://yucao89.github.io/markdown-cv">yucao89.github.io/markdown-cv</a>
 </div>
 
 ## Path
@@ -18,6 +18,8 @@ Procurement professional responsible for the procurement of the heliostat mechan
 * Hidraulic movement power units (10-15 M€)
 * Precision bearings (4 M€ top brands: SKF, Rothe Erde, Galperti)
 * Bolts and Nuts (2 M€)
+
+For references contact elvira.garcia@sener.es (past chief procurement office now general manager of energy division)
 
 
 ### Currently ...
@@ -37,9 +39,9 @@ __SENER INGENIERIA Y SISTEMAS__
 
 - **Procurement Engineer:** Procured parts for the production of mechanism that moves the heliostats in the world's biggest tower based thermal solar power plant in Morocco. The project produced 7.400 truck sized mechanisms with complicated part assemblies in time span of a year.
 
-- Lived in the assembly as an expat to supervise the entire supply chain where I started writing specialized software to register, track and understand and thus manage the complex material flow.
+Lived in the assembly as an expat to supervise the entire supply chain where I started writing specialized software to register, track and understand and thus manage the complex material flow.
 
-- Later promoted to mechanism category manager for the company. Quit the company to start as full time software developer
+Later promoted to mechanism category manager for the company. Quit the company to start as full time software developer
 
 
 ## Education
