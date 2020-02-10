@@ -34,10 +34,7 @@ Working as specialist enterprise data warehouse developer designing and writing 
 `10-2013 to 08-2015`
 __TECNICAS REUNIDAS__
  
-- **Engineering Department:** 
-
-Power plant technical risk calculations, corrosion calculations
-
+- **Engineering Department:** Power plant technical risk calculations, corrosion calculations
 
 `10-2015 to 02-2018`
 __SENER INGENIERIA Y SISTEMAS__
@@ -48,6 +45,12 @@ Procured parts for the production of custom design mechanism that powers the hel
 
 Lived in the assembly line as an expat to supervise the entire supply chain. During this period, I started writing specialized software to register, track and understand and thus manage the complex material flow. Later promoted to mechanism category manager for the company. Left the company to start as full time software developer
 
+03-2018 to Present`
+__SEVERAL COMPANIES__
+
+- **Enterprise Data Warehouse Developer:** 
+
+I write specialized and top quality software for companies like **HUAWEI, REPSOL, SKF, IBERIA EXPRESS**
 
 ## Education
 
